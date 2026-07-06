@@ -188,6 +188,10 @@ My focus is simple: understand data deeply, clean and analyze it correctly, buil
 
 <img width="96%" src="profile-widgets/github-streak.svg" alt="Live GitHub contribution streak generated from GitHub API" />
 
+<br/><br/>
+
+<img width="96%" src="https://raw.githubusercontent.com/yashodipp/yashodipp/output/github-contribution-grid-snake-dark.svg" alt="Real GitHub contribution snake animation inside live contribution streak" />
+
 </div>
 
 ---
@@ -207,16 +211,6 @@ My focus is simple: understand data deeply, clean and analyze it correctly, buil
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashodipp&bg_color=0D1117&color=C084FC&line=22C55E&point=A855F7&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yashodipp/yashodipp/output/github-contribution-grid-snake-dark.svg" alt="Real GitHub contribution snake animation" />
 
 </div>
 
