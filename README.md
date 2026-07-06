@@ -186,7 +186,7 @@ My focus is simple: understand data deeply, clean and analyze it correctly, buil
 
 <br/><br/>
 
-<img width="62%" src="https://streak-stats.demolab.com?user=yashodipp&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=A855F7&currStreakLabel=22C55E&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Live GitHub streak" />
+<img width="96%" src="profile-widgets/github-streak.svg" alt="Live GitHub contribution streak generated from GitHub API" />
 
 </div>
 
