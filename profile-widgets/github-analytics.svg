@@ -1,0 +1,80 @@
+<svg width="1160" height="560" viewBox="0 0 1160 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1160" y2="560">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1160" y2="0">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1160" height="560" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1158" height="558" rx="25" stroke="url(#line)" stroke-opacity="0.7"/>
+  <circle cx="1010" cy="80" r="150" fill="#22C55E" opacity="0.08"/>
+  <circle cx="160" cy="480" r="170" fill="#A855F7" opacity="0.10"/>
+  <text x="60" y="70" fill="#FFFFFF" font-size="32" font-weight="850" font-family="Inter,Segoe UI,Arial">Live GitHub Analytics</text>
+  <text x="60" y="102" fill="#9CA3AF" font-size="15" font-family="Inter,Segoe UI,Arial">Generated from the GitHub API for @yashodipp | 2026-07-06 17:51 UTC</text>
+  
+    <g transform="translate(60,142)">
+      <rect width="250" height="96" rx="16" fill="#111827" stroke="#A855F7" stroke-opacity="0.45"/>
+      <text x="22" y="34" fill="#9CA3AF" font-size="14" font-family="Inter,Segoe UI,Arial">Portfolio Projects</text>
+      <text x="22" y="72" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Inter,Segoe UI,Arial">23</text>
+    </g>
+    
+  
+    <g transform="translate(330,142)">
+      <rect width="250" height="96" rx="16" fill="#111827" stroke="#22C55E" stroke-opacity="0.45"/>
+      <text x="22" y="34" fill="#9CA3AF" font-size="14" font-family="Inter,Segoe UI,Arial">Followers</text>
+      <text x="22" y="72" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Inter,Segoe UI,Arial">0</text>
+    </g>
+    
+  
+    <g transform="translate(600,142)">
+      <rect width="250" height="96" rx="16" fill="#111827" stroke="#60A5FA" stroke-opacity="0.45"/>
+      <text x="22" y="34" fill="#9CA3AF" font-size="14" font-family="Inter,Segoe UI,Arial">Total Stars</text>
+      <text x="22" y="72" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Inter,Segoe UI,Arial">3</text>
+    </g>
+    
+  
+    <g transform="translate(870,142)">
+      <rect width="250" height="96" rx="16" fill="#111827" stroke="#F59E0B" stroke-opacity="0.45"/>
+      <text x="22" y="34" fill="#9CA3AF" font-size="14" font-family="Inter,Segoe UI,Arial">Total Forks</text>
+      <text x="22" y="72" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Inter,Segoe UI,Arial">0</text>
+    </g>
+    
+  <text x="60" y="310" fill="#FFFFFF" font-size="22" font-weight="800" font-family="Inter,Segoe UI,Arial">Top Languages</text>
+  <text x="760" y="310" fill="#FFFFFF" font-size="22" font-weight="800" font-family="Inter,Segoe UI,Arial">Career Signal</text>
+  
+            <text x="70" y="368" fill="#E5E7EB" font-size="14" font-family="Inter,Segoe UI,Arial">Python</text>
+            <rect x="215" y="354" width="430" height="18" rx="9" fill="#1F2937"/>
+            <rect x="215" y="354" width="224" height="18" rx="9" fill="#22C55E"/>
+            <text x="670" y="368" fill="#9CA3AF" font-size="13" font-family="Inter,Segoe UI,Arial">12 projects</text>
+            
+            <text x="70" y="402" fill="#E5E7EB" font-size="14" font-family="Inter,Segoe UI,Arial">Jupyter Notebook</text>
+            <rect x="215" y="388" width="430" height="18" rx="9" fill="#1F2937"/>
+            <rect x="215" y="388" width="186" height="18" rx="9" fill="#A855F7"/>
+            <text x="670" y="402" fill="#9CA3AF" font-size="13" font-family="Inter,Segoe UI,Arial">10 projects</text>
+            
+            <text x="70" y="436" fill="#E5E7EB" font-size="14" font-family="Inter,Segoe UI,Arial">Other</text>
+            <rect x="215" y="422" width="430" height="18" rx="9" fill="#1F2937"/>
+            <rect x="215" y="422" width="18" height="18" rx="9" fill="#60A5FA"/>
+            <text x="670" y="436" fill="#9CA3AF" font-size="13" font-family="Inter,Segoe UI,Arial">1 projects</text>
+            
+  
+            <text x="780" y="368" fill="#E5E7EB" font-size="14" font-weight="700" font-family="Inter,Segoe UI,Arial">Data Science</text>
+            <text x="1085" y="368" fill="#9CA3AF" font-size="13" text-anchor="end" font-family="Inter,Segoe UI,Arial">Python, statistics, EDA</text>
+            
+            <text x="780" y="402" fill="#E5E7EB" font-size="14" font-weight="700" font-family="Inter,Segoe UI,Arial">Analytics</text>
+            <text x="1085" y="402" fill="#9CA3AF" font-size="13" text-anchor="end" font-family="Inter,Segoe UI,Arial">SQL, Excel, Power BI</text>
+            
+            <text x="780" y="436" fill="#E5E7EB" font-size="14" font-weight="700" font-family="Inter,Segoe UI,Arial">Machine Learning</text>
+            <text x="1085" y="436" fill="#9CA3AF" font-size="13" text-anchor="end" font-family="Inter,Segoe UI,Arial">Modeling and evaluation</text>
+            
+            <text x="780" y="470" fill="#E5E7EB" font-size="14" font-weight="700" font-family="Inter,Segoe UI,Arial">GenAI + MLOps</text>
+            <text x="1085" y="470" fill="#9CA3AF" font-size="13" text-anchor="end" font-family="Inter,Segoe UI,Arial">AI workflows and deployment</text>
+            
+  <text x="60" y="525" fill="#9CA3AF" font-size="13" font-family="Inter,Segoe UI,Arial">GitHub since 2025-07-25 | Data Science | Analytics | ML | GenAI</text>
+</svg>

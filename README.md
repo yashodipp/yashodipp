@@ -63,29 +63,6 @@ My focus is simple: understand data deeply, clean and analyze it correctly, buil
 
 ---
 
-## Syllabus Alignment
-
-<div align="center">
-
-| Phase | Skill Area | Profile Direction |
-|---|---|---|
-| Phase 1 | Python Powerhouse | Python programming, data structures, scripting, automation |
-| Phase 2 | Statistics That Matters | Probability, descriptive stats, inference, hypothesis thinking |
-| Phase 3 | NumPy Ninjas | Numerical computing, arrays, vectorized analysis |
-| Phase 4 | Pandas Playground | Data cleaning, wrangling, EDA, transformation |
-| Phase 5 | Data Visualization | Matplotlib, Seaborn, Plotly, insight storytelling |
-| Phase 6 | Excel Intelligence | Spreadsheets, formulas, reporting, business analysis |
-| Phase 7 | Power BI Prodigy | BI dashboards, DAX basics, KPI reporting |
-| Phase 8 | SQL | Queries, joins, aggregations, database analysis |
-| Phase 9 | Machine Learning | Regression, classification, clustering, model evaluation |
-| Phase 10 | Deep Learning | Neural networks and applied DL foundations |
-| Phase 11 | Generative AI | LLM workflows, AI integration, GenAI-assisted analytics |
-| Phase 12 | MLOps & Deployment | Model packaging, deployment, reproducible workflows |
-
-</div>
-
----
-
 ## Skills
 
 <div align="center">
@@ -181,39 +158,6 @@ My focus is simple: understand data deeply, clean and analyze it correctly, buil
 
 ---
 
-## Experience
-
-### Data Science & Analytics Learner | GenAI-Focused Portfolio
-**2024 - Present**
-
-Following a structured Data Science & Analytics with GenAI path and building portfolio projects around Python, statistics, data wrangling, visualization, BI dashboards, machine learning, deep learning, GenAI, MLOps, and deployment.
-
-**Scope of Work**
-
-- Clean and analyze datasets using Python, NumPy, Pandas, Excel, and SQL.
-- Build visual reports and dashboards using Matplotlib, Seaborn, Plotly, Streamlit, and Power BI.
-- Train and evaluate machine learning models for classification, regression, clustering, and business prediction use cases.
-- Convert notebooks and model artifacts into polished dashboard applications.
-- Document projects in a recruiter-friendly way with clear problem, workflow, result, and impact.
-
-`Python` `Statistics` `NumPy` `Pandas` `Excel` `SQL` `Power BI` `Machine Learning` `GenAI` `MLOps`
-
-### Machine Learning Project Builder | Applied Analytics Portfolio
-**2023 - Present**
-
-Built practical ML and analytics projects across healthcare, HR, country development analysis, clustering, and prediction dashboards. The goal is to show end-to-end data handling, modeling, visualization, and deployment readiness.
-
-**Scope of Work**
-
-- Perform exploratory data analysis and communicate insights through charts and summaries.
-- Create model-backed dashboards with prediction forms, KPIs, analytics pages, and performance views.
-- Package trained models with requirements, README documentation, and runnable app structure.
-- Keep the portfolio aligned with data analyst, data scientist, BI analyst, ML intern, and GenAI analyst roles.
-
-`EDA` `Data Visualization` `scikit-learn` `Streamlit` `Model Deployment` `Business Analytics`
-
----
-
 ## Achievements
 
 <div align="center">
@@ -230,7 +174,7 @@ Built practical ML and analytics projects across healthcare, HR, country develop
 
 ---
 
-## GitHub Analytics
+## Live GitHub Analytics
 
 <div align="center">
 
@@ -238,12 +182,11 @@ Built practical ML and analytics projects across healthcare, HR, country develop
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashodipp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=22C55E" />
-<img height="180em" src="https://streak-stats.demolab.com?user=yashodipp&hide_border=true&background=0D1117&ring=22C55E&fire=A855F7&currStreakLabel=22C55E&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" />
+<img width="96%" src="profile-widgets/github-analytics.svg" alt="Live GitHub analytics generated from GitHub API" />
 
 <br/><br/>
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashodipp&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" />
+<img width="62%" src="https://streak-stats.demolab.com?user=yashodipp&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=A855F7&currStreakLabel=22C55E&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Live GitHub streak" />
 
 </div>
 
@@ -253,17 +196,7 @@ Built practical ML and analytics projects across healthcare, HR, country develop
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashodipp&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-
-</div>
-
----
-
-## 3D Contribution View
-
-<div align="center">
-
-<img src="profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D GitHub contribution graph" />
+<img width="96%" src="profile-widgets/github-trophies.svg" alt="GitHub achievement board generated from GitHub API" />
 
 </div>
 
@@ -283,11 +216,7 @@ Built practical ML and analytics projects across healthcare, HR, country develop
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashodipp/yashodipp/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashodipp/yashodipp/output/github-contribution-grid-snake.svg" />
-  <img alt="Green GitHub contribution snake animation" src="https://raw.githubusercontent.com/yashodipp/yashodipp/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/yashodipp/yashodipp/output/github-contribution-grid-snake-dark.svg" alt="Real GitHub contribution snake animation" />
 
 </div>
 
@@ -322,28 +251,6 @@ Target Roles:
   - GenAI Data Analyst
   - MLOps / ML Deployment Intern
 ```
-
----
-
-## Connect
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=600&color=C084FC&center=true&vCenter=true&width=760&lines=Open+to+Data+Science+and+Analytics+roles;Available+for+Data+Analyst+and+BI+opportunities;Building+ML+and+GenAI+portfolio+projects" alt="Animated connect line" />
-
-<br/><br/>
-
-<a href="mailto:yashodipptech@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7C3AED" />
-</a>
-<a href="https://www.linkedin.com/in/yashodip-borase/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1" />
-</a>
-<a href="https://github.com/yashodipp">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6" />
-</a>
-
-</div>
 
 ---
 
