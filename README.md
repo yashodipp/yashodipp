@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:6D28D9,100:22C55E&height=245&section=header&text=Yashodip%20Borase&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:6D28D9,100:22C55E&height=245&section=header&text=Yashodip%20Borase&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20Analytics%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=980&lines=Building+AI-powered+software+systems;Designing+full-stack+products+with+engineering+discipline;Turning+data+and+models+into+production-ready+experiences;Open+to+SDE+%7C+AI+Engineer+%7C+Full+Stack+Developer+roles" alt="Animated engineering headline" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=350&color=22C55E&center=true&vCenter=true&width=860&lines=SYSTEM+STATUS+%3A+BUILDING;STACK+MODE+%3A+PYTHON+%7C+FASTAPI+%7C+STREAMLIT+%7C+AI%2FML;PROFILE+MODE+%3A+RECRUITER-READY+ENGINEERING+BRAND;MISSION+%3A+SHIP+USEFUL+SOFTWARE" alt="Animated status line" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=980&lines=Data+Analyst+%7C+BI+Analyst+%7C+Data+Scientist;Python+%7C+Statistics+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;Turning+raw+data+into+decisions+and+AI-powered+insights" alt="Animated data science headline" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Computer%20Science-Engineering-111827?style=for-the-badge&logo=academia&logoColor=white&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/AI%2FML-Applied%20Systems-111827?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=6366F1" />
-<img src="https://img.shields.io/badge/Full%20Stack-Product%20Engineering-111827?style=for-the-badge&logo=react&logoColor=white&labelColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Open%20To-SDE%20%7C%20AI%20%7C%20Full%20Stack-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=22C55E" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=350&color=22C55E&center=true&vCenter=true&width=900&lines=SYLLABUS+TRACK+%3A+DATA+SCIENCE+%26+ANALYTICS+WITH+GENAI;CORE+STACK+%3A+PYTHON+%7C+NUMPY+%7C+PANDAS+%7C+SQL+%7C+POWER+BI;AI+TRACK+%3A+ML+%7C+DEEP+LEARNING+%7C+GENAI+%7C+MLOPS;GOAL+%3A+JOB-READY+DATA+AND+AI+PORTFOLIO" alt="Animated learning status" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Data%20Science-Python%20%7C%20Statistics-111827?style=for-the-badge&logo=python&logoColor=white&labelColor=7C3AED" />
+<img src="https://img.shields.io/badge/Data%20Analytics-SQL%20%7C%20Excel%20%7C%20Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=6366F1" />
+<img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn%20%7C%20Modeling-111827?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=8B5CF6" />
+<img src="https://img.shields.io/badge/GenAI-LLM%20Workflows%20%7C%20AI%20Integration-111827?style=for-the-badge&logo=openai&logoColor=white&labelColor=22C55E" />
 
 <br/><br/>
 
@@ -24,15 +24,15 @@
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1" />
 </a>
 <a href="https://github.com/yashodipp">
-  <img src="https://img.shields.io/badge/GitHub%20Profile-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6" />
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=yashodipp&style=flat-square&color=8A2BE2&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/yashodipp?style=flat-square&label=Followers&color=7C3AED&labelColor=111827" />
-<img src="https://img.shields.io/badge/Engineering%20Mode-Production%20Ready-22C55E?style=flat-square&labelColor=111827" />
-<img src="https://img.shields.io/badge/Focus-AI%20Products-60A5FA?style=flat-square&labelColor=111827" />
+<img src="https://img.shields.io/badge/Track-20%20Weeks%20%7C%2012%2B%20Modules-22C55E?style=flat-square&labelColor=111827" />
+<img src="https://img.shields.io/badge/Focus-Data%20%2B%20AI%20Careers-60A5FA?style=flat-square&labelColor=111827" />
 
 </div>
 
@@ -40,128 +40,142 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:312E81,100:7C3AED&height=72&section=header&text=ENGINEERING%20PROFILE&fontSize=24&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:312E81,100:7C3AED&height=72&section=header&text=DATA%20SCIENCE%20%26%20ANALYTICS%20PROFILE&fontSize=24&fontColor=FFFFFF&animation=fadeIn" />
 
 </div>
 
 ## About
 
-I am a software engineer focused on building practical, reliable, and visually polished software systems across AI/ML, full-stack development, backend engineering, and analytics products. My work combines clean code, model-backed intelligence, structured data workflows, and product thinking so that ideas can move from notebooks and prototypes into usable applications.
+I am building my career around data science, analytics, machine learning, and GenAI. My current learning path is aligned with a job-ready Data Science & Analytics with GenAI curriculum covering Python, statistics, NumPy, Pandas, data visualization, Excel, Power BI, SQL, machine learning, deep learning, generative AI, MLOps, and deployment.
 
-I care about engineering that feels real: clear architecture, maintainable code, purposeful interfaces, strong documentation, and deployment-aware execution. I enjoy working where software engineering meets applied intelligence, especially products that turn data, automation, and machine learning into user-facing value.
+My focus is simple: understand data deeply, clean and analyze it correctly, build useful dashboards, train machine learning models, and deploy AI-powered solutions that can support real decisions. I am shaping my GitHub profile around data roles instead of unrelated full-stack or generic software claims.
 
-**Open To**
+**Target Job Titles**
 
-| Track | What I Bring |
+| Job Title | Matching Strength |
 |---|---|
-| Software Development Engineer | Backend systems, APIs, product workflows, clean implementation |
-| AI/ML Engineer | ML pipelines, model integration, analytics, intelligent applications |
-| Full Stack Developer | UI, backend, database, dashboard, deployment-ready builds |
-| Product Engineering | Turning technical systems into polished user experiences |
+| Data Analyst | Python, Excel, SQL, dashboards, reporting, business insights |
+| Business Intelligence Analyst | Power BI, KPI design, data visualization, stakeholder-ready dashboards |
+| Junior Data Scientist | Statistics, EDA, feature engineering, ML modeling, evaluation |
+| Machine Learning Engineer Intern | Model training, pipelines, deployment basics, MLOps foundations |
+| GenAI Data Analyst | AI-assisted analytics, prompt workflows, LLM-powered insight generation |
+| Data Science Intern | End-to-end data workflow from raw data to deployed analysis |
 
 ---
 
-## Engineering Signal
+## Syllabus Alignment
 
 <div align="center">
 
-| Core Strength | Engineering Value |
-|---|---|
-| Software Engineering | Builds structured, maintainable, and production-minded applications |
-| AI/ML Systems | Converts trained models and data workflows into usable products |
-| Backend Development | Designs API-first systems with clear data flow and service boundaries |
-| Analytics Products | Creates dashboards that communicate insight, risk, and decisions clearly |
-| Product Mindset | Balances functionality, usability, performance, and presentation |
+| Phase | Skill Area | Profile Direction |
+|---|---|---|
+| Phase 1 | Python Powerhouse | Python programming, data structures, scripting, automation |
+| Phase 2 | Statistics That Matters | Probability, descriptive stats, inference, hypothesis thinking |
+| Phase 3 | NumPy Ninjas | Numerical computing, arrays, vectorized analysis |
+| Phase 4 | Pandas Playground | Data cleaning, wrangling, EDA, transformation |
+| Phase 5 | Data Visualization | Matplotlib, Seaborn, Plotly, insight storytelling |
+| Phase 6 | Excel Intelligence | Spreadsheets, formulas, reporting, business analysis |
+| Phase 7 | Power BI Prodigy | BI dashboards, DAX basics, KPI reporting |
+| Phase 8 | SQL | Queries, joins, aggregations, database analysis |
+| Phase 9 | Machine Learning | Regression, classification, clustering, model evaluation |
+| Phase 10 | Deep Learning | Neural networks and applied DL foundations |
+| Phase 11 | Generative AI | LLM workflows, AI integration, GenAI-assisted analytics |
+| Phase 12 | MLOps & Deployment | Model packaging, deployment, reproducible workflows |
 
 </div>
 
 ---
 
-## Tech Stack
+## Skills
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1700&pause=450&color=C084FC&center=true&vCenter=true&width=760&lines=Languages;Frontend;Backend+and+Databases;Cloud%2C+DevOps+and+Tooling;AI%2FML+Engineering" alt="Animated tech stack label" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1700&pause=450&color=C084FC&center=true&vCenter=true&width=780&lines=Python+for+Data+Science;Statistics+and+Business+Analytics;SQL+and+Power+BI;Machine+Learning+and+Deep+Learning;Generative+AI+and+MLOps" alt="Animated skill stack" />
 
 <br/><br/>
 
-<b>Languages</b>
+<b>Core Data Stack</b>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,git,github,docker&theme=dark" />
 
 <br/><br/>
 
-<b>Frontend</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma&theme=dark" />
-
-<br/><br/>
-
-<b>Backend & Databases</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,mongodb,mysql,postgres,sqlite,firebase&theme=dark" />
-
-<br/><br/>
-
-<b>Cloud, DevOps & Tooling</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,postman,vscode,vercel,netlify&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" />
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" />
+<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white&labelColor=7C3AED" />
+<img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white&labelColor=6366F1" />
+<img src="https://img.shields.io/badge/Plotly-111827?style=for-the-badge&logo=plotly&logoColor=white&labelColor=3F4F75" />
+<img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=F7931E" />
+<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" />
+<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=217346" />
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=F2C811" />
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626" />
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF4B4B" />
+<img src="https://img.shields.io/badge/GenAI-111827?style=for-the-badge&logo=openai&logoColor=white&labelColor=22C55E" />
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## Data / AI Expertise
 
-| Domain | Proficiency | Details |
-|---|---:|---|
-| Supervised Machine Learning | Advanced | Classification, regression, preprocessing, evaluation, model packaging |
-| Unsupervised Learning | Advanced | Clustering, segmentation, pattern discovery, visual interpretation |
-| Model Deployment | Advanced | Streamlit apps, FastAPI services, artifact loading, inference workflows |
-| Data Analytics | Advanced | EDA, KPI dashboards, insight extraction, business storytelling |
-| Computer Vision | Intermediate | Image/video processing, OpenCV workflows, visual intelligence prototypes |
-| NLP Foundations | Intermediate | Text preprocessing, vectorization, semantic workflows, assistant foundations |
-| MLOps Foundations | Intermediate | Reproducible environments, dependency control, deployment readiness |
+| Domain | Current Focus | Output I Build |
+|---|---|---|
+| Data Analysis | Python, Pandas, NumPy, Excel, SQL | Clean datasets, EDA notebooks, business summaries |
+| BI & Reporting | Power BI, KPI logic, dashboard storytelling | Executive dashboards, reports, insight views |
+| Statistics | Distributions, correlation, inference, hypothesis thinking | Data-backed conclusions and model reasoning |
+| Machine Learning | Regression, classification, clustering, evaluation | Predictive models and model performance reports |
+| Deep Learning | Neural network foundations and applied experimentation | DL-ready notebooks and learning projects |
+| Generative AI | Prompting, LLM workflows, AI-assisted analytics | GenAI-powered analysis and assistant-style tools |
+| MLOps & Deployment | Model packaging, reproducible setup, app deployment | Streamlit apps, model artifacts, deployment-ready projects |
 
 ---
 
-## Product Engineering Focus
+## Portfolio Direction
 
 <details open>
-<summary><b>AI Product Systems</b></summary>
+<summary><b>Data Analyst Track</b></summary>
 
 <br/>
 
-| Layer | Execution |
+| Area | What I Focus On |
 |---|---|
-| Data Layer | Cleans, validates, analyzes, and prepares data for real product workflows |
-| Model Layer | Builds, evaluates, packages, and integrates machine learning artifacts |
-| Backend Layer | Designs APIs and service logic for structured product behavior |
-| Interface Layer | Creates polished dashboards, forms, charts, and decision-ready screens |
-| Delivery Layer | Packages applications with dependencies, documentation, and run instructions |
+| Excel | Formulas, cleaning, summaries, analytical reporting |
+| SQL | Joins, filters, aggregations, subqueries, business queries |
+| Python | Data cleaning, transformation, EDA, automation |
+| Visualization | Charts that explain trends, comparisons, outliers, and decisions |
+| Power BI | Dashboards, KPIs, interactive analysis, business reporting |
 
 </details>
 
 <details>
-<summary><b>Software Engineering Discipline</b></summary>
+<summary><b>Data Scientist / ML Track</b></summary>
 
 <br/>
 
-| Practice | Outcome |
+| Area | What I Focus On |
 |---|---|
-| Clean Structure | Easier maintenance, faster debugging, better collaboration |
-| Production Mindset | Apps are prepared for real users, not just demos |
-| Documentation | Recruiter-friendly, reviewer-friendly, and future-proof projects |
-| Testing Awareness | Lower risk when projects grow beyond notebooks |
-| UI Polish | Technical work becomes easier to understand and evaluate |
+| Statistics | Understanding data behavior before modeling |
+| Feature Engineering | Preparing better inputs for machine learning |
+| ML Models | Regression, classification, clustering, evaluation |
+| Deep Learning | Neural network fundamentals and experiments |
+| Deployment | Packaging models into usable dashboards and apps |
+
+</details>
+
+<details>
+<summary><b>GenAI + MLOps Track</b></summary>
+
+<br/>
+
+| Area | What I Focus On |
+|---|---|
+| GenAI | Prompt workflows, AI-assisted analytics, LLM-powered features |
+| MLOps | Reproducible environments, artifact handling, deployment basics |
+| Data Apps | Streamlit dashboards and model-backed user flows |
+| Documentation | Clear READMEs, project explanation, recruiter-ready presentation |
 
 </details>
 
@@ -169,34 +183,34 @@ I care about engineering that feels real: clear architecture, maintainable code,
 
 ## Experience
 
-### Software Engineering Trainee | Independent Engineering Portfolio
+### Data Science & Analytics Learner | GenAI-Focused Portfolio
 **2024 - Present**
 
-Built production-style software and AI/ML systems across security intelligence, HR analytics, global development analysis, computer vision, business analytics, and dashboard products. Focused on turning raw notebooks, trained models, datasets, and backend logic into polished user-facing applications.
+Following a structured Data Science & Analytics with GenAI path and building portfolio projects around Python, statistics, data wrangling, visualization, BI dashboards, machine learning, deep learning, GenAI, MLOps, and deployment.
 
 **Scope of Work**
 
-- Designed and developed dashboard-based and backend-driven applications using Python, Streamlit, FastAPI, JavaScript, and modern UI patterns.
-- Built ML workflows for classification, clustering, analytics, insight generation, and model-backed prediction experiences.
-- Packaged trained model artifacts into deployment-ready applications with clean dependencies and reproducible setup.
-- Wrote professional documentation and structured technical narratives for reviewer, recruiter, and user clarity.
-- Applied product engineering across architecture, data flow, inference, performance, interface quality, and delivery.
+- Clean and analyze datasets using Python, NumPy, Pandas, Excel, and SQL.
+- Build visual reports and dashboards using Matplotlib, Seaborn, Plotly, Streamlit, and Power BI.
+- Train and evaluate machine learning models for classification, regression, clustering, and business prediction use cases.
+- Convert notebooks and model artifacts into polished dashboard applications.
+- Document projects in a recruiter-friendly way with clear problem, workflow, result, and impact.
 
-`Python` `FastAPI` `Streamlit` `Machine Learning` `Data Analytics` `REST APIs` `Product Engineering`
+`Python` `Statistics` `NumPy` `Pandas` `Excel` `SQL` `Power BI` `Machine Learning` `GenAI` `MLOps`
 
-### AI/ML Developer | Applied Intelligence Portfolio
+### Machine Learning Project Builder | Applied Analytics Portfolio
 **2023 - Present**
 
-Developed intelligent applications that combine machine learning, model evaluation, business use cases, and polished interfaces. Emphasized practical deployment, explainability, analytics clarity, and real-world usability.
+Built practical ML and analytics projects across healthcare, HR, country development analysis, clustering, and prediction dashboards. The goal is to show end-to-end data handling, modeling, visualization, and deployment readiness.
 
 **Scope of Work**
 
-- Implemented classification and clustering pipelines for applied analytics and intelligence use cases.
-- Built interactive dashboards with KPIs, charts, insights, prediction flows, and model performance views.
-- Converted model experiments into structured applications suitable for portfolio review and technical interviews.
-- Practiced clean project organization across app code, model files, data assets, requirements, and documentation.
+- Perform exploratory data analysis and communicate insights through charts and summaries.
+- Create model-backed dashboards with prediction forms, KPIs, analytics pages, and performance views.
+- Package trained models with requirements, README documentation, and runnable app structure.
+- Keep the portfolio aligned with data analyst, data scientist, BI analyst, ML intern, and GenAI analyst roles.
 
-`AI/ML` `scikit-learn` `Pandas` `Plotly` `Model Deployment` `Data Visualization` `Technical Documentation`
+`EDA` `Data Visualization` `scikit-learn` `Streamlit` `Model Deployment` `Business Analytics`
 
 ---
 
@@ -206,49 +220,11 @@ Developed intelligent applications that combine machine learning, model evaluati
 
 | Recognition | Details |
 |---|---|
-| Premium Engineering Portfolio | Built multiple end-to-end software and AI/ML systems with production-style presentation |
-| Applied ML Delivery | Converted datasets and trained models into user-facing intelligence products |
-| Full Stack Execution | Worked across UI, backend, database, ML, analytics, and deployment workflows |
-| Strong GitHub Branding | Maintains a polished, professional, recruiter-friendly developer presence |
-| Product Thinking | Focuses on usability, business impact, maintainability, and technical clarity |
-
-</div>
-
----
-
-## Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Computing-111827?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=6366F1" />
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-111827?style=for-the-badge&logo=oracle&logoColor=white&labelColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-111827?style=for-the-badge&logo=oracle&logoColor=white&labelColor=312E81" />
-<img src="https://img.shields.io/badge/NPTEL-Python%20Programming-111827?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/NPTEL-Data%20Science-111827?style=for-the-badge&logo=academia&logoColor=white&labelColor=6366F1" />
-<img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-111827?style=for-the-badge&logo=cisco&logoColor=white&labelColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Foundations-111827?style=for-the-badge&logo=cisco&logoColor=white&labelColor=22C55E" />
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/yashodipp/">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=7C3AED" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/yashodipp/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=6366F1" />
-</a>
-<a href="https://www.hackerrank.com/profile/yashodipp">
-  <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=8B5CF6" />
-</a>
-<a href="https://www.codechef.com/users/yashodipp">
-  <img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=white&labelColor=312E81" />
-</a>
+| Data Career Alignment | GitHub profile focused on Data Science, Analytics, ML, GenAI, and MLOps roles |
+| Analytics Portfolio | Built dashboards and notebooks that explain data, predictions, KPIs, and model outcomes |
+| ML Delivery | Converted datasets and trained models into usable prediction applications |
+| BI Readiness | Building Excel, SQL, Power BI, and visualization skills for analyst roles |
+| Deployment Mindset | Packaging projects with clean dependencies, model artifacts, and documentation |
 
 </div>
 
@@ -258,7 +234,7 @@ Developed intelligent applications that combine machine learning, model evaluati
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=760&lines=Live+GitHub+Signal;Contribution+Momentum;Language+Distribution;Consistency+and+Growth" alt="Animated analytics title" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=760&lines=Live+GitHub+Signal;Data+Projects+in+Progress;Analytics+and+ML+Momentum;Consistency+and+Growth" alt="Animated analytics title" />
 
 <br/><br/>
 
@@ -270,6 +246,8 @@ Developed intelligent applications that combine machine learning, model evaluati
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashodipp&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" />
 
 </div>
+
+---
 
 ## GitHub Trophies
 
@@ -319,28 +297,30 @@ Developed intelligent applications that combine machine learning, model evaluati
 
 ```yaml
 Learning:
-  - Advanced software engineering patterns
-  - Scalable backend architecture
-  - Applied machine learning deployment
-  - Cloud and DevOps fundamentals
+  - Python for data science
+  - Statistics for analytics
+  - NumPy and Pandas
+  - Excel and Power BI
+  - SQL for business analysis
+  - Machine learning and deep learning
+  - Generative AI for analytics
+  - MLOps and deployment
 
 Building:
-  - AI-powered analytics platforms
-  - Full-stack product systems
-  - Model-backed Streamlit and FastAPI applications
-  - Recruiter-ready open source presence
+  - EDA notebooks
+  - Power BI dashboards
+  - SQL case studies
+  - Machine learning dashboards
+  - GenAI-powered analytics workflows
+  - Deployment-ready data apps
 
-Exploring:
-  - MLOps workflows
-  - System design
-  - Cloud-native deployments
-  - Intelligent automation
-
-Open To:
-  - Software Development Engineer roles
-  - AI/ML Engineer roles
-  - Full Stack Developer roles
-  - Open source collaboration
+Target Roles:
+  - Data Analyst
+  - Business Intelligence Analyst
+  - Data Scientist Intern
+  - Machine Learning Engineer Intern
+  - GenAI Data Analyst
+  - MLOps / ML Deployment Intern
 ```
 
 ---
@@ -349,7 +329,7 @@ Open To:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=600&color=C084FC&center=true&vCenter=true&width=720&lines=Let's+build+something+useful;Available+for+engineering+opportunities;Open+to+AI%2FML+and+full-stack+roles" alt="Animated connect line" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=600&color=C084FC&center=true&vCenter=true&width=760&lines=Open+to+Data+Science+and+Analytics+roles;Available+for+Data+Analyst+and+BI+opportunities;Building+ML+and+GenAI+portfolio+projects" alt="Animated connect line" />
 
 <br/><br/>
 
@@ -369,7 +349,7 @@ Open To:
 
 <div align="center">
 
-<b>Engineering is the discipline of turning complexity into systems people can trust.</b>
+<b>Data tells the story. Analytics explains it. AI helps scale it.</b>
 
 <br/><br/>
 
