@@ -271,28 +271,6 @@ Developed intelligent applications that combine machine learning, model evaluati
 
 </div>
 
----
-
-## Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashodipp&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashodipp&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashodipp&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashodipp&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashodipp&theme=github_dark&utcOffset=5.5" />
-
-</div>
-
----
-
 ## GitHub Trophies
 
 <div align="center">
@@ -307,7 +285,7 @@ Developed intelligent applications that combine machine learning, model evaluati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashodipp/yashodipp/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution graph" />
+<img src="profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D GitHub contribution graph" />
 
 </div>
 
